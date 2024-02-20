@@ -1,0 +1,10 @@
+/* Your CSS file or within your component */
+.image-container {
+    width: 420px; /* Set a fixed width for all images */
+    height: 300px; /* Set a fixed height for all images */
+  }
+  
+.image {
+    width: 420px; /* Set a fixed width for all images */
+    height: 300px; /* Set a fixed height for all images */
+}
