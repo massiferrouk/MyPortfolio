@@ -54,7 +54,7 @@ export const Skill_data = [
     {
       name: "CV",
       src: "/CVicone.png",
-      link: "/CVPortfolio.pdf",
+      link: "/monCV.pdf",
     },
   ];
   
